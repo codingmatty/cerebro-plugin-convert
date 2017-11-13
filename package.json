@@ -1,6 +1,14 @@
 {
   "name": "cerebro-plugin-convert",
   "version": "1.0.0",
+  "description": "Cerebro plugin to convert numbers to different bases",
+  "license": "MIT",
+  "repository": "codingmatty/cerebro-plugin-convert",
+  "author": {
+    "name": "Matthew Jacobs",
+    "email": "hello@mattjdev.com",
+    "url": "https://www.mattjdev.com"
+  },
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"
@@ -12,7 +20,8 @@
   "keywords": [
     "cerebro",
     "cerebro-plugin",
-    "cerebro-plugin-convert"
+    "cerebro-plugin-convert",
+    "hexidecimal"
   ],
   "scripts": {
     "start": "cerebro-scripts start",
