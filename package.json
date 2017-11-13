@@ -1,6 +1,6 @@
 {
   "name": "cerebro-plugin-convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cerebro plugin to convert numbers to different bases",
   "license": "MIT",
   "repository": "codingmatty/cerebro-plugin-convert",
